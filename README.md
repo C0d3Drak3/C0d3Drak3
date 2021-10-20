@@ -4,6 +4,7 @@
 - 💞️ I’m looking to work on a healty and suportive workplace, to contribute with my knowledge in JS, NodeJS, React-Redux JS, SQL, etc. And to develope even more my skills, learning from all my coworkers. 
 - 📫 How to reach me:
     - You can find me in https://www.linkedin.com/in/martín-otero-fullstack/
+    - My e-mail is: martin_otero@hotmail.com
     - Or in WA with +592915063406
 
 <!---
