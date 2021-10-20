@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin Otero  , also known as @C0d3Drak3 .
-- 👀 I’m interested in develope my skills in coding with JS, learn new tecnologies, know interesting developers... And as a personal hobbies, videogames and series❤
+- 👀 I’m interested in develop my skills in coding with JS, learn new technologies, know interesting developers... And as a personal hobbies, videogames and series❤
 - 🌱 I’m currently learning Full Stack Developer at SoyHENRY. Working with a group to create a e-commerce.
 - 💞️ I’m looking to work on a healty and suportive workplace, to contribute with my knowledge in JS, NodeJS, React-Redux JS, SQL, etc. And to develope even more my skills, learning from all my coworkers. 
 - 📫 How to reach me:
