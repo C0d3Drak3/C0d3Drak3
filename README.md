@@ -7,6 +7,10 @@
     - My e-mail is: martin_otero@hotmail.com
     - Or in WA with +592915063406
 
+<p align="left">
+  <img height="900" src="./Martín Otero (eng).png" />
+</p>
+
 <!---
 C0d3Drak3/C0d3Drak3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
