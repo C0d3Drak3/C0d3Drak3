@@ -5,7 +5,7 @@
 - 📫 How to reach me:
     - You can find me in www.linkedin.com/in/martin-otero-fullstack
     - My e-mail is: martin_otero@hotmail.com
-    - Or in WA with +592915063406
+    - Or in WA with +542915063406
 
 <p align="left">
   <img height="900" src="./CV Martin Otero (eng).png" />
