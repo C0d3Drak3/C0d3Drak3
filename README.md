@@ -8,7 +8,7 @@
     - Or in WA with +542915063406
 
 <p align="left">
-  <img height="900" src="./CV Martin Otero (eng).png" />
+  <img height="900" src="./CV Martin Otero.png" />
 </p>
 
 <!---
